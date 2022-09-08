@@ -1,1 +1,1 @@
-# mlops-pytorch
+# kaggle competitions
